@@ -1,0 +1,15 @@
+#include<bits/stdc++.h>
+using namespace std;
+#define fl(i,a,b) for(int i=a;i<b;i++)
+#define bl(i,a,b) for(int i=a;i>=b;i--)
+typedef long long int lli;
+#define m(ii)  map<int,int>
+#define v(i) vector<int>
+#define p(ii) pair<int,int>
+#define pb push_back
+#define mp make_pair
+int main()
+{
+    
+    return 0;
+}
